@@ -87,7 +87,6 @@ app = tk.Tk()
 app.title("IGT")
 app.geometry("800x600")
 
-# Color scheme
 BG_COLOR = "#0f0f23"
 TEXT_COLOR = "#00ff00"
 ACCENT_COLOR = "#00ffff"
